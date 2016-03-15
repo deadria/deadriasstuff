@@ -1,0 +1,36 @@
+body {
+    
+    background-color:lightgrey;
+}
+
+h1 {
+   background-color:lightblue;
+    color:red;
+    font-family:serif;
+    font-size:30px;
+}
+h2 {
+    font-size:22px;
+    font-family:sans-serif;
+    color:orange;
+    background-color:lightblue
+}
+
+p {
+    font-size:14px;
+    font-family:monospace;
+    color:black;
+
+}
+
+ol {
+    text-decoration:underline;
+    font-family: Impact;
+
+}
+
+img {
+    border:solid purple 2px;
+    height:200px;
+
+}
